@@ -1,6 +1,7 @@
 {
   "id": "Alife.Function.Browser",
   "name": "网上冲浪",
+  "author": "Alife官方",
   "description": "让AI像人一样操控真实浏览器，导航网页、执行JS、下载文件，同时规避反爬检测。",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""

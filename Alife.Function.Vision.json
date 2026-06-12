@@ -1,6 +1,7 @@
 {
   "id": "Alife.Function.Vision",
   "name": "视觉感知",
+  "author": "Alife官方",
   "description": "让AI看见屏幕内容、理解图像、观察世界。提供窗口列表、截屏+OCR和深度视觉分析。",
   "dependencies": {
     "Alife.Function.FunctionCaller": "",

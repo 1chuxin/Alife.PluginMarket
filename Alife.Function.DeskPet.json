@@ -1,6 +1,7 @@
 {
   "id": "Alife.Function.DeskPet",
   "name": "桌宠交互",
+  "author": "Alife官方",
   "description": "将Live2D桌宠集成到AI系统中，实现表情同步与交互反馈（支持Cubism 3+）。",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""

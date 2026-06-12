@@ -1,6 +1,7 @@
 {
   "id": "Alife.Function.Auditory",
   "name": "语音识别",
+  "author": "Alife官方",
   "description": "为AI提供语音识别能力，通过Windows AudioGraph捕获音频并送入识别模型。",
   "dependencies": {
     "Alife.Function.AuditoryModel": ""

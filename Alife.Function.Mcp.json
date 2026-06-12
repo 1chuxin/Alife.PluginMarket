@@ -1,6 +1,7 @@
 {
   "id": "Alife.Function.Mcp",
   "name": "MCP接入",
+  "author": "Alife官方",
   "description": "使MCP协议可以通过函数调用接入到框架中",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""

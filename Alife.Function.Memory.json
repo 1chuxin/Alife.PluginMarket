@@ -1,6 +1,7 @@
 {
   "id": "Alife.Function.Memory",
   "name": "持久记忆",
+  "author": "Alife官方",
   "description": "自动管理与分层压缩对话记忆，提供长期记忆检索能力。",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""

@@ -1,6 +1,7 @@
 {
   "id": "Alife.Function.AuditoryModel",
   "name": "SenseVoice语音识别",
+  "author": "Alife官方",
   "description": "基于SenseVoice(ONNX)的本地语音识别引擎。",
   "environments": {
     "nuget": {

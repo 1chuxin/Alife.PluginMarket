@@ -1,6 +1,7 @@
 {
   "id": "Alife.Function.SpeechModel",
   "name": "语音合成模型",
+  "author": "Alife官方",
   "description": "包含三种语音合成模型：VITS本地离线TTS、Genie(GPT-SoVITS)本地离线TTS、Edge在线TTS。",
   "environments": {
     "pip": {

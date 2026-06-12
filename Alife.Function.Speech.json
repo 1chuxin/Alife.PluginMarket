@@ -1,6 +1,7 @@
 {
   "id": "Alife.Function.Speech",
   "name": "语音说话",
+  "author": "Alife官方",
   "description": "赋予AI文字转语音输出能力。",
   "dependencies": {
     "Alife.Function.FunctionCaller": "",
