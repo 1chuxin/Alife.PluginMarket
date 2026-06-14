@@ -6,6 +6,11 @@
   "dependencies": {
     "Alife.Function.Speech": ""
   },
+  "environments": {
+    "pip": {
+      "edge-tts": ""
+    }
+  },
   "releases": {
     "1.0.0": {
       "date": "2026-6-14",
