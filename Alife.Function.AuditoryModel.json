@@ -6,6 +6,11 @@
   "dependencies": {
     "Alife.Function.AIModelUtility": ""
   },
+  "environments": {
+    "nuget": {
+      "org.k2fsa.sherpa.onnx": ""
+    }
+  },
   "releases": {
     "1.0.0": {
       "date": "2026-6-11",
