@@ -3,12 +3,12 @@
   "name": "IrmiaDevKit - 弥亚开发工具箱",
   "author": "Jiangtangxi",
   "maintainer": "Jiangtangxi",
-  "description": "适配新版Alife框架。将irmia_devkit_open和KiraAI GitHub工具移植为Alife插件，提供46个Python开发工具",
+  "description": "适配新版Alife框架：自引用InteractiveModule<IrmiaDevKitModule>写法，提供46个Python开发工具",
   "defaultCategory": "用户自制/开发工具",
   "releases": {
-    "1.0.1": {
+    "1.0.2": {
       "date": "2026-06-15",
-      "note": "适配新版Alife框架：InteractiveModule<object> -> InteractiveModule, RegisterXmlFunction -> RegisterTool, 更新Module签名添加description参数",
+      "note": "适配新版框架: InteractiveModule<IrmiaDevKitModule>自引用写法，替换RegisterXmlFunction为ImageGen样式",
       "file": "https://github.com/xioaxixi877/IrmiaDevKit/archive/refs/heads/main.zip"
     }
   }
