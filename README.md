@@ -108,7 +108,10 @@ public class MyModule(
 {
   "id": "MyPlugin.Example",//插件唯一标识，与文件夹名一致
   "name": "示例插件",//插件显示名称
+  "author": "作者名",//插件作者
   "description": "插件功能描述",//插件显示描述
+  "tags": ["视觉模型", "官方"],//插件标签，用于分类筛选（可选）
+  "source": "https://github.com/xxx",//插件主页或联系方式（可选）
   "dependencies": { //依赖的其他插件
     "{PluginID}": "{VersionDescription}" 
   },

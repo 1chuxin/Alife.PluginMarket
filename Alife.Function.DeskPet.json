@@ -6,6 +6,7 @@
   "tags": [
     "官方"
   ],
+  "source": "https://github.com/BDFFZI/Alife",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""
   },
