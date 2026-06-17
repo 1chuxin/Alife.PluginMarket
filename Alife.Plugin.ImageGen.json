@@ -11,5 +11,8 @@
       "note": "初始版本，支持热编译cs工作流",
       "file": "https://github.com/AinaLife-ai/Alife.Plugin.ImageGen/archive/refs/heads/main.zip"
     }
-  }
+  },
+  "tags": [
+    "生图模型"
+  ]
 }

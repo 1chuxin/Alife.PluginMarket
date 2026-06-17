@@ -11,5 +11,8 @@
       "note": "初始版本",
       "file": "https://github.com/ikun810/AlifePlugins/releases/download/v1.0.0/Alife.Function.Speech.GPTSoVITS.zip"
     }
-  }
+  },
+  "tags": [
+    "语音模型"
+  ]
 }

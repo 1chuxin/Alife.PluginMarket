@@ -12,6 +12,8 @@
       "note": "初始版本，支持MiniMax T2A V2 API，含音色克隆和情感调节",
       "file": "https://github.com/yuweitk/AlifePluginReleases/raw/main/Alife.Function.MiniMaxTTS/1.0.0.zip"
     }
-  }
+  },
+  "tags": [
+    "语音模型"
+  ]
 }
- 

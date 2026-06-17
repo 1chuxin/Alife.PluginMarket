@@ -12,6 +12,8 @@
       "note": "初始版本，支持SiliconFlow CosyVoice2-0.5B API，含音色克隆",
       "file": "https://github.com/yuweitk/AlifePluginReleases/raw/main/Alife.Function.Speech.SiliconFlow/1.0.0.zip"
     }
-  }
+  },
+  "tags": [
+    "语音模型"
+  ]
 }
-
