@@ -3,6 +3,10 @@
   "name": "OpenAI视觉分析",
   "author": "Alife官方",
   "description": "基于OpenAI兼容API的在线视觉分析引擎。",
+  "tags": [
+    "视觉模型",
+    "官方"
+  ],
   "dependencies": {
     "Alife.Function.Vision": ""
   },
@@ -12,8 +16,5 @@
       "note": "初始版本",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Vision.OpenAI/1.0.0.zip"
     }
-  },
-  "tags": [
-    "视觉模型"
-  ]
+  }
 }

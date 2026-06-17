@@ -3,6 +3,9 @@
   "name": "主动事件",
   "author": "Alife官方",
   "description": "为AI提供系统事件通知（启动、销毁、自动tick），以及EWait/EWake等自调度工具，实现主动自主行为。",
+  "tags": [
+    "官方"
+  ],
   "dependencies": {
     "Alife.Function.FunctionCaller": ""
   },

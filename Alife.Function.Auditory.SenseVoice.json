@@ -3,6 +3,10 @@
   "name": "SenseVoice语音识别",
   "author": "Alife官方",
   "description": "基于SenseVoice的本地语音识别引擎。",
+  "tags": [
+    "听觉模型",
+    "官方"
+  ],
   "dependencies": {
     "Alife.Function.Auditory": "",
     "Alife.Function.AIModelUtility": ""
@@ -18,8 +22,5 @@
       "note": "初始版本",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Auditory.SenseVoice/1.0.0.zip"
     }
-  },
-  "tags": [
-    "听觉模型"
-  ]
+  }
 }

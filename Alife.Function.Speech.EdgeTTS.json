@@ -3,6 +3,10 @@
   "name": "Edge语音合成",
   "author": "Alife官方",
   "description": "基于Edge-TTS的在线语音合成引擎。",
+  "tags": [
+    "语音模型",
+    "官方"
+  ],
   "dependencies": {
     "Alife.Function.Speech": ""
   },
@@ -17,8 +21,5 @@
       "note": "初始版本",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Speech.EdgeTTS/1.0.0.zip"
     }
-  },
-  "tags": [
-    "语音模型"
-  ]
+  }
 }

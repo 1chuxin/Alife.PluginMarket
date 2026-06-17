@@ -3,7 +3,9 @@
   "name": "模型管理",
   "author": "Alife官方",
   "description": "提供模型下载与管理能力，基于ModelScope进行模型资源的下载和本地缓存管理。",
-  "defaultCategory": "Alife 官方/模型接入",
+  "tags": [
+    "官方"
+  ],
   "environments": {
     "pip": {
       "modelscope": ""

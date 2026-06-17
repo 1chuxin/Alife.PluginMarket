@@ -3,6 +3,9 @@
   "name": "开发者模式",
   "author": "Alife官方",
   "description": "向AI暴露项目/系统信息，提供创建插件和运行时管理活动的工具。",
+  "tags": [
+    "官方"
+  ],
   "dependencies": {
     "Alife.Function.FunctionCaller": ""
   },

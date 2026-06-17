@@ -3,6 +3,9 @@
   "name": "MiniMax TTS语音合成",
   "author": "yuweitk",
   "description": "基于MiniMax T2A V2 API的在线语音合成，支持58种中文音色+16种英文音色、8种情感调节、音色克隆。",
+  "tags": [
+    "语音模型"
+  ],
   "dependencies": {
     "Alife.Function.Speech": ""
   },
@@ -12,8 +15,5 @@
       "note": "初始版本，支持MiniMax T2A V2 API，含音色克隆和情感调节",
       "file": "https://github.com/yuweitk/AlifePluginReleases/raw/main/Alife.Function.MiniMaxTTS/1.0.0.zip"
     }
-  },
-  "tags": [
-    "语音模型"
-  ]
+  }
 }

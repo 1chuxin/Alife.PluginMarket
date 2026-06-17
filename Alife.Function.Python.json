@@ -3,6 +3,9 @@
   "name": "脚本执行",
   "author": "Alife官方",
   "description": "赋予AI执行Python脚本的能力，实现文件管理、设备控制、绘画、音乐等复杂自定义功能。",
+  "tags": [
+    "官方"
+  ],
   "dependencies": {
     "Alife.Function.FunctionCaller": ""
   },

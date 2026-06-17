@@ -3,6 +3,10 @@
   "name": "MiniCPM视觉分析",
   "author": "Alife官方",
   "description": "基于MiniCPM-V 4.6的轻量本地视觉分析引擎。",
+  "tags": [
+    "视觉模型",
+    "官方"
+  ],
   "dependencies": {
     "Alife.Function.Vision": "",
     "Alife.Function.AIModelUtility": ""
@@ -25,8 +29,5 @@
       "note": "初始版本",
       "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Vision.MiniCPM/1.0.0.zip"
     }
-  },
-  "tags": [
-    "视觉模型"
-  ]
+  }
 }
