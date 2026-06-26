@@ -19,6 +19,11 @@
     }
   },
   "releases": {
+    "1.1.0": {
+      "date": "2026-6-26",
+      "note": "1. 增加对HWND不存在的专用检测报错\n2. 增加窗口和全屏截图功能",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Vision/1.1.0.zip"
+    },
     "1.0.0": {
       "date": "2026-6-14",
       "note": "初始版本",
