@@ -13,7 +13,6 @@
   },
   "environments": {
     "nuget": {
-      "Microsoft.Extensions.Logging.Abstractions": ">=10.0.7",
       "System.Drawing.Common": ">=9.0.0",
       "Vortice.Direct3D11": ">=3.8.1"
     }
