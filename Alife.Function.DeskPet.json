@@ -3,6 +3,10 @@
   "name": "桌宠交互",
   "author": "Alife官方",
   "description": "将Live2D桌宠集成到AI系统中，实现表情同步与交互反馈（支持Cubism 3+）。",
+  "tags": [
+    "官方"
+  ],
+  "source": "https://github.com/BDFFZI/Alife",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""
   },

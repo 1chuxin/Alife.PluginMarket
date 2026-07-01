@@ -3,6 +3,11 @@
   "name": "语音识别",
   "author": "Alife官方",
   "description": "为AI提供语音识别能力，通过Windows AudioGraph捕获音频并送入识别模型。",
+  "tags": [
+    "听觉模型",
+    "官方"
+  ],
+  "source": "https://github.com/BDFFZI/Alife",
   "releases": {
     "1.0.0": {
       "date": "2026-6-14",

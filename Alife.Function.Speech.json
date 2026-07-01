@@ -2,7 +2,12 @@
   "id": "Alife.Function.Speech",
   "name": "语音说话",
   "author": "Alife官方",
-  "description": "赋予AI文字转语音输出能力。",
+  "description": "赋予AI文字转语音输出能力，需配合实际的语音模型使用。",
+  "tags": [
+    "语音模型",
+    "官方"
+  ],
+  "source": "https://github.com/BDFFZI/Alife",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""
   },

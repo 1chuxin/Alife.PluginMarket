@@ -3,6 +3,10 @@
   "name": "世界背景",
   "author": "Alife官方",
   "description": "定义运行时环境的基础世界设定、物理法则和全局公告。提供角色间通信(Call)和物品交换(Give)。",
+  "tags": [
+    "官方"
+  ],
+  "source": "https://github.com/BDFFZI/Alife",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""
   },

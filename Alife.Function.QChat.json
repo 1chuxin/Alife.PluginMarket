@@ -3,11 +3,30 @@
   "name": "QQ聊天",
   "author": "Alife官方",
   "description": "通过OneBot v11 WebSocket连接实现QQ消息收发与文件传输，支持私聊/群聊、CQ码、表情库、语音合成、群监控自动唤醒。",
+  "tags": [
+    "官方"
+  ],
+  "source": "https://github.com/BDFFZI/Alife",
   "dependencies": {
     "Alife.Function.FunctionCaller": "",
     "Alife.Function.Speech": ""
   },
   "releases": {
+    "1.3.0": {
+      "date": "2026-6-26",
+      "note": "1. 改为显式注入（QQ聊天属于高频交互，老是查文档会导致未命中token开销变大）\n2. 微调提示词并改为初始注入",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.QChat/1.3.0.zip"
+    },
+    "1.2.0": {
+      "date": "2026-6-22",
+      "note": "1. 将QQ号信息常驻，并增加防范提示词\n2. 增加私聊和群聊每消息的附加提示词",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.QChat/1.2.0.zip"
+    },
+    "1.1.0": {
+      "date": "2026-6-18",
+      "note": "1. 优化群消息状态的监视面板，适配多群情况\n2. 增加非激活时群缓存消息功能，使AI激活时能有一定的上下文\n3. 增加主动查询群聊天记录的功能",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.QChat/1.1.0.zip"
+    },
     "1.0.1": {
       "date": "2026-6-17",
       "note": "1. 将QQ提示词改为文档内容，而非每次注入\n2. 增加QQ号为空时的异常判断",

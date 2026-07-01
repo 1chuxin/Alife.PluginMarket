@@ -3,6 +3,11 @@
   "name": "Qwen视觉分析",
   "author": "Alife官方",
   "description": "基于Qwen2.5-VL的本地视觉分析引擎。",
+  "tags": [
+    "视觉模型",
+    "官方"
+  ],
+  "source": "https://github.com/BDFFZI/Alife",
   "dependencies": {
     "Alife.Function.Vision": "",
     "Alife.Function.AIModelUtility": ""
