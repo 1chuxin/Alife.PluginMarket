@@ -22,6 +22,11 @@
     }
   },
   "releases": {
+    "1.3.0": {
+      "date": "2026-7-1",
+      "note": "1. 将提示词改为隐式注入\n2. 提示增加恢复记忆的方法说明",
+      "file": "https://github.com/BDFFZI/Alife.OfficialPluginStorage/raw/refs/heads/main/Alife.Function.Memory/1.3.0.zip"
+    },
     "1.2.0": {
       "date": "2026-6-27",
       "note": "1. 将记忆说明提示词改为显示注入\n2. 优化缩减记忆说明提示词",
