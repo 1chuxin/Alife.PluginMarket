@@ -4,7 +4,8 @@
   "author": "Alife官方",
   "description": "通过OneBot v11 WebSocket连接实现QQ消息收发与文件传输，支持私聊/群聊、CQ码、表情库、语音合成、群监控自动唤醒。",
   "tags": [
-    "官方"
+    "官方",
+    "QQ"
   ],
   "source": "https://github.com/BDFFZI/Alife",
   "dependencies": {
