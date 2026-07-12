@@ -12,15 +12,20 @@
       "NAudio": ">=2.3.0"
     }
   },
-  "tags": [
-    "语音模型"
-  ],
+  "tags": [ "语音模型" ],
   "source": "https://github.com/1chuxin/1chuxin-Alife.GenericTTS",
   "releases": {
     "1.0.0": {
       "date": "2026-7-9",
       "note": "首发：本地 GPT-SoVITS 对接（V1/V2 双轨、流式/文件播放）；安装目录扫描音色预设；speak 完整接管合成+播放；长文本智能拆段（≤100 字/段、拆段 cut1）；speak lang 切换目标语言。使用前请关闭角色「语音说话」模块。",
       "file": "https://github.com/1chuxin/1chuxin-Alife.GenericTTS/releases/download/v1.0.0/Alife.Function.Speech.GenericTTS.zip",
+      "dependencies": null,
+      "environments": null
+    },
+    "1.1.0": {
+      "date": "2026-7-13",
+      "note": "V1 桌宠兼容 + 预设扫描恢复 + 默认目标语种 + speak lang 支持。V2 流式快速（听感优先 + 不漏播）。预合成优化。上下文注入 speak/lang 与 QQ 语音切语种说明。修复循环依赖与流式并发抢 TTS 导致漏播。",
+      "file": "https://github.com/1chuxin/1chuxin-Alife.GenericTTS/releases/download/v1.1.0/Alife.Function.Speech.GenericTTS.zip",
       "dependencies": null,
       "environments": null
     }
